@@ -3,10 +3,10 @@ name: .NET MVC CI Pipeline
 on:
   push:
     branches:
-      - joelpb   # tu rama principal
+      - main   # tu rama principal
   pull_request:
     branches:
-      - joelpb
+      - main
 
 jobs:
   build-test:
