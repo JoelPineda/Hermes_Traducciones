@@ -8,6 +8,15 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "JUnitTestLogger/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.TestPlatform.ObjectModel": "15.5.0"
+        },
+        "build": {
+          "build/netstandard2.0/JUnitTestLogger.props": {}
+        }
+      },
       "Microsoft.CodeCoverage/17.1.0": {
         "type": "package",
         "compile": {
@@ -1868,6 +1877,19 @@
         "coverlet-icon.png",
         "coverlet.collector.3.1.2.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "JUnitTestLogger/1.1.0": {
+      "sha512": "5nIxpRXczNH2To76s/AxmgiXrfMeebLx10R8edNO4w5UNo2diCUf0kQn0qC5+WPnONCjmtzyFrHolK+b7aBemQ==",
+      "type": "package",
+      "path": "junittestlogger/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/netstandard2.0/JUnit.TestLogger.dll",
+        "build/netstandard2.0/JUnitTestLogger.props",
+        "junittestlogger.1.1.0.nupkg.sha512",
+        "junittestlogger.nuspec"
       ]
     },
     "Microsoft.CodeCoverage/17.1.0": {
@@ -6120,6 +6142,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "JUnitTestLogger >= 1.1.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "coverlet.collector >= 3.1.2",
       "hermes_translations >= 1.0.0",
@@ -6176,6 +6199,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "JUnitTestLogger": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[17.1.0, )"

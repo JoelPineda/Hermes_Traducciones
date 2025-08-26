@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hermes_translations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec1d78cdeb022a5c55dceb7fbd7f451bf58badeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d17d9861f5bb46f6c4d5858df0bb59b7b7d321")]
 [assembly: System.Reflection.AssemblyProductAttribute("hermes_translations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hermes_translations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

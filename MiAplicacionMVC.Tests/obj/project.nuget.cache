@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NAAgthiPPvA=",
+  "dgSpecHash": "HT/YokiLMhs=",
   "success": true,
   "projectFilePath": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\MiAplicacionMVC.Tests\\MiAplicacionMVC.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\junittestlogger\\1.1.0\\junittestlogger.1.1.0.nupkg.sha512",
     "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
@@ -96,9 +97,9 @@
     "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
     "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
-    "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
     "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
+    "C:\\Users\\default.LAPTOP-RV2JO8F0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512"
   ],
   "logs": []
 }

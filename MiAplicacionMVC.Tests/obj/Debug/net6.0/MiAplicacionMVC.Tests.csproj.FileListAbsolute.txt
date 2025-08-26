@@ -109,3 +109,4 @@ C:\Users\default.LAPTOP-RV2JO8F0\OneDrive\Escritorio\Independiente\Hermes Traduc
 C:\Users\default.LAPTOP-RV2JO8F0\OneDrive\Escritorio\Independiente\Hermes Traducciones\Hermes_Traducciones\MiAplicacionMVC.Tests\obj\Debug\net6.0\MiAplicacionMVC.Tests.pdb
 C:\Users\default.LAPTOP-RV2JO8F0\OneDrive\Escritorio\Independiente\Hermes Traducciones\Hermes_Traducciones\MiAplicacionMVC.Tests\obj\Debug\net6.0\MiAplicacionMVC.Tests.genruntimeconfig.cache
 C:\Users\default.LAPTOP-RV2JO8F0\OneDrive\Escritorio\Independiente\Hermes Traducciones\Hermes_Traducciones\MiAplicacionMVC.Tests\obj\Debug\net6.0\ref\MiAplicacionMVC.Tests.dll
+C:\Users\default.LAPTOP-RV2JO8F0\OneDrive\Escritorio\Independiente\Hermes Traducciones\Hermes_Traducciones\MiAplicacionMVC.Tests\bin\Debug\net6.0\JUnit.TestLogger.dll
