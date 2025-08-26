@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewData["Title"] = "Interprete de acompañante";
+}
+
+<link rel="stylesheet" href="~/css/card.css" />
+<link rel="stylesheet" href="~/css/tabla.css" />
+<style>
+    *{margin: 0;padding: 0;box-sizing: border-box; font-family: sans-serif;}
+
+
+.parrafo{
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    padding: 20px 20px;
+
+    line-height: 1.5;
+    border-radius: 5px;
+    text-align: justify;
+}
+.parrafo img{
+    border-radius: 5px;
+    float: left;
+    margin-right: 25px;
+}
+
+
+
+</style>
+
+<div class="container">   
+
+   <div class="jumbotron containers">
+       <h3 style="text-align:center; font-weight:bold">Interprete de acompañante</h3>
+       <br />
+   <div class="parrafo">
+       <p>Ya sea por negocios o de viaje, hay un momento en el que es mejor tener un intérprete de 
+           su lado para ayudarlo a superar cualquier barrera o comunicación que pueda existir.</p>
+        <p>
+            Para ayudarlo en estas situaciones, hemos desarrollado servicios de interpretación de acompañantes.
+        </p>
+       <img src="~/imagen/Conversando.png" class="responsive">
+        <p>En el área de los servicios de
+            interpretación, Hermes 
+            Traducciones proporciona un 
+            intérprete con usted en todo 
+            momento.
+            </p>
+        <p>
+            Nuestros intérpretes 
+            acompañantes se utilizan 
+            principalmente cuando nuestro 
+            cliente necesita tener 
+            interacción y contacto con la 
+            otra persona.
+        </p>
+        <p>
+            Un intérprete acompañante se encuentra con usted siempre, facilitando el diálogo entre 
+            las partes, ya sea con fines personales, profesionales y operativos.
+        </p>
+        <p>
+            Nuestros intérpretes acompañantes están especializados en diversos temas, tanto a nivel 
+            profesional como informal.
+        </p>
+         
+        <br />
+        <h5 style="font-weight:bold">Idiomas disponibles para interpretes acompañantes:</h5>
+
+        <ul>
+           <li>Ingles</li>
+           <li>Francés</li>
+           <li>Árabe</li>
+           <li>Polaco</li>
+        </ul>      
+   </div>
+ </div>
+
+</div>
+
+
+<script>
+    if (screen.width >= 412 && screen.height <= 970) {
+       document.getElementById("mensaje").style.display = "block";
+    }else{
+        document.getElementById("mensaje").style.display = "none";
+    }
+</script>

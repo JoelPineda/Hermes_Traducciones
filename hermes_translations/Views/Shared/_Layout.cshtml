@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="google-site-verification" content="SbtMaavn_D6ryJH2ZWt261I4TRbljDhNhhs0EruMoo0" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hermes Traducciones</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+     <link rel="shortcut icon" href="~/imagen/icon.png"/>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="~/css/social.css" />
+    <link rel="stylesheet" href="~/css/footer.css" />
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css">
+</head>
+<body>
+     @*header>
+             <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#078EEC;">
+                <div class="container-fluid">
+
+                    <button type="button" id="sidebarCollapse" class="btn" style="background-color:#078EEC">
+                        <i class="fa fa-bars" aria-hidden="true" style="color:white"></i>
+                    </button>
+                                      
+                </div>
+            </nav>
+     </header>*@
+     <header class="main-header">
+          <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+                    <button type="button" id="sidebarCollapse" class="btn btn-light">
+                        <i class="fa fa-bars" aria-hidden="true" style="color:#00DE2C;"></i>
+
+                    </button>
+                     <div id="logo" style="text-align:center;">
+                         <a href="@Url.Action("Index", "Home")">
+                             <img src="~/imagen/logo.png" width="300" height="70"/>
+                        </a>
+                           
+                     </div>   
+                </div>
+            </nav>
+     </header>
+    <div class="wrapper">
+        <!-- Sidebar -->
+        <nav id="sidebar">
+            <ul class="list-unstyled components pure-menu-list" style="color:white">   
+                    <li>
+                        <a href="@Url.Action("Index", "Home")" style="text-decoration: none;">
+                            <i class="fa-solid fa-home" style="color:white"></i>
+                            Inicio
+                        </a>
+                    </li>
+                    <hr />
+                  <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                    <a href="#" class="pure-menu-link" style="color:white"> 
+                        <i class="fa-solid fa-user-gear" style="color:white"></i>
+                            Servicios
+                    </a>
+ 
+                    <ul class="pure-menu-children">
+                      <li class="pure-menu-item">
+                        <a href="@Url.Action("Index", "Translation")"
+                           class="pure-menu-link" style="color:white">
+                          <i class="fa-solid fa-pencil" style="color:white"></i>
+                          Traducciones de documentos legales
+                        </a>
+                      </li>
+                      <li class="pure-menu-item">
+                        <a href="@Url.Action("Index", "Interpretation")"
+                           class="pure-menu-link" style="color:white"> 
+                          <i class="fa-solid fa-headphones" style="color:white"></i>
+                          Alquiler de equipos
+                        </a>
+                      </li>
+                      <li class="pure-menu-item">
+                        <a href="@Url.Action("Index", "Companion")"
+                           class="pure-menu-link" style="color:white"> 
+                          <i class="fa-solid fa-people-arrows" style="color:white"></i>
+                           Interprete de acompañante
+                        </a>
+                      </li>
+                      <li class="pure-menu-item">
+                        <a href="@Url.Action("Index", "Class")"
+                           class="pure-menu-link" style="color:white"> 
+                          <i class="fa-solid fa-user-graduate" style="color:white"></i>
+                           Clases corporativas de idiomas
+                        </a>
+                      </li>
+                      <li class="pure-menu-item">
+                        <a href="https://drive.google.com/file/d/1bPp2qqNhTq9hzQsHOoXqUS0Y4GvC5M0Q/view?usp=drive_link"
+                           class="pure-menu-link" style="color:white" target="_blank">
+                          <i class="fa-solid fa-book" style="color:white"></i>
+                          Portafolios
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+                  <hr />
+                  <li>
+                        <a href="@Url.Action("Index", "Nosotros")" style="text-decoration: none;">
+                            <i class="far fa-address-card" style="color:white"></i>
+                            Nosotros
+                        </a>
+                    </li>
+                    <hr />
+                    <li>
+                        <a href="@Url.Action("Index", "Contact")" style="text-decoration: none;">
+                            <i class="far fa-id-badge" style="color:white"></i>
+                            Contacto
+                        </a>
+                    </li><hr />
+                    <li>
+                        <a href="@Url.Action("Index", "locations")" style="text-decoration: none;">
+                            <i class="fa fa-globe" style="color:white"></i>
+                            Ubicaciones
+                        </a>
+                    </li>
+            </ul>
+        </nav>
+        <div id="content" class="body-container">                
+            <div>
+            <footer class="border-top footer">
+                <div class="container">
+
+                    <div class="copyright-container">
+                        <span class="copyright">&copy; 2023, Hermes traducciones Todos los derechos reservados.</span>
+                    </div>
+                </div>
+             </footer>
+            </div>
+             <div class="container">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        </div>
+    </div>
+   
+    <div class="social">
+        <ul>            
+           <li><a href="https://instagram.com/hermestraducciones?igshid=NTc4MTIwNjQ2YQ==" target="_blank" class="icon-googleplus" style="width:44px"><i class="fa fa-instagram"></i></a></li>
+            <li><a href="https://api.whatsapp.com/send/?phone=18293405139" target="_blank" class="icon-whatsapp" style="width:44px"><i class="fa fa-whatsapp"></i></a></li>
+            <li><a href="mailto:hermestraduccionesjl@gmail.com"  target="_blank" class="icon-mail" style="width:44px"><i class="fa fa-envelope"></i></a></li>
+        </ul>
+    </div>
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+     <script>
+        $(document).ready(function () {
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');              
+            });
+        });       
+        if (screen.width <= 412) {
+            $('#sidebar').toggleClass('active'); 
+        }
+        $('#sidebar').toggleClass('active'); 
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

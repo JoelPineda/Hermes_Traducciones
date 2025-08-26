@@ -1,0 +1,138 @@
+﻿
+<link rel="stylesheet" href="~/css/contact.css" />
+<script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+ <div class="containers">
+      <span class="big-circle"></span>
+      <img src="~/imagen/shape.png" class="square" alt="" />
+      <div class="form">
+        <div class="contact-info">
+          <h3 class="title">Mantengámonos en contacto</h3>
+          <p class="text" style="text-align:center;">
+            Puede ponerse en contacto con nosotros a través de uno de los siguientes canales o visitando una de nuestra sucursales!
+          </p>
+
+          <div class="info">
+            <div class="information">
+              <img src="~/imagen/location.png" class="icon" alt="" />
+              <p>Calle Emilio Prud-homme N0. 39, Azua</p>
+            </div>
+            <div class="information">
+              <img src="~/imagen/location.png" class="icon" alt="" />
+              <p>San Marcos, Gazcue calle Santiago 752</p>
+            </div>
+            <div class="information">
+              <img src="~/imagen/email.png" class="icon" alt="" />
+              <p>hermestraduccionesjl@gmail.com</p>
+            </div>
+            <div class="information">
+              <img src="~/imagen/phone.png" class="icon" alt="" />
+              <p>829-340-5139</p>
+            </div>
+          </div>
+
+          <div class="social-media">
+            <p>Conecta con nosotros:</p>
+            <div class="social-icons">
+              <a href="mailto:hermestraduccionesjl@gmail.com" target="_blank">
+                <i class="fa fa-envelope"></i>
+              </a>
+              <a href="https://api.whatsapp.com/send/?phone=18293405139" target="_blank">
+                <i class="fa fa-whatsapp"></i>
+              </a>
+              <a href="https://instagram.com/hermestraducciones?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
+                <i class="fab fa-instagram"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="contact-form">
+          <span class="circle one"></span>
+          <span class="circle two"></span>
+
+          <form  autocomplete="off">
+            <h3 class="title">Contacta con nosotros</h3>
+            <div class="input-container">
+              <input type="text" name="name" class="input" id="name" required/>
+              <label for="">Nombre completo</label>
+              <span>Nombre completo</span>
+            </div>
+            <div class="input-container">
+              <input type="email" name="email" class="input" id="email" required/>
+              <label for="">Email</label>
+              <span>Email</span>
+            </div>
+            <div class="input-container">
+              <input type="tel" name="phone" class="input" id="phone" required/>
+              <label for="">Telefono</label>
+              <span>Telefono</span>
+            </div>
+            <div class="input-container textarea">
+              <textarea name="message" class="input" id="message" required></textarea>
+              <label for="">Mensaje</label>
+              <span>Mensaje</span>
+            </div>
+            <button type="button" onclick="enviarCorreo()" class="btn" id="btnEnviar">Enviar</button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+<script>
+
+function enviarCorreo(){
+
+var name = document.getElementById("name").value;
+var email = document.getElementById("email").value;
+var phone = document.getElementById("phone").value;
+var message = document.getElementById("message").value;
+
+
+var email = {
+        "name": name,
+        "email": email,
+        "phone": phone,
+        "message": message,
+    };
+
+  $.ajax({
+     type: "POST",
+     url: "Contact/EnviarCorreo",
+     data: JSON.stringify(email),
+     contentType: 'application/json',
+     processData: "JSON",
+     success: function(r) {
+        swal("Mensaje Enviado!", "Presione Ok!", "success");
+         setTimeout(function() {
+             window.location.reload();
+         }, 2000);
+        },
+        error: function(xhr, status, error) {           
+            var err = eval("(" + xhr.responseText + ")");
+            swal("Ha ocurrido un error!", "Presione Ok!", "warning");
+        }
+  })                        
+}
+const inputs = document.querySelectorAll(".input");
+
+function focusFunc() {
+  let parent = this.parentNode;
+  parent.classList.add("focus");
+}
+
+function blurFunc() {
+  let parent = this.parentNode;
+  if (this.value == "") {
+    parent.classList.remove("focus");
+  }
+}
+
+inputs.forEach((input) => {
+  input.addEventListener("focus", focusFunc);
+  input.addEventListener("blur", blurFunc);
+});
+
+</script>

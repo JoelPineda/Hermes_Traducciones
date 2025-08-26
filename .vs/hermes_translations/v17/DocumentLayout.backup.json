@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\hermes_translations\\wwwroot\\js\\galeria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|solutionrelative:hermes_translations\\wwwroot\\js\\galeria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\hermes_translations\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|solutionrelative:hermes_translations\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\hermes_translations\\views\\interpretation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|solutionrelative:hermes_translations\\views\\interpretation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA13CB9A-9DB2-476F-80B2-CFE964C78399}|MiAplicacionMVC.Tests\\MiAplicacionMVC.Tests.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\miaplicacionmvc.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA13CB9A-9DB2-476F-80B2-CFE964C78399}|MiAplicacionMVC.Tests\\MiAplicacionMVC.Tests.csproj|solutionrelative:miaplicacionmvc.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\hermes_translations\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|solutionrelative:hermes_translations\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA13CB9A-9DB2-476F-80B2-CFE964C78399}|MiAplicacionMVC.Tests\\MiAplicacionMVC.Tests.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\miaplicacionmvc.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA13CB9A-9DB2-476F-80B2-CFE964C78399}|MiAplicacionMVC.Tests\\MiAplicacionMVC.Tests.csproj|solutionrelative:miaplicacionmvc.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\hermes_translations\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|solutionrelative:hermes_translations\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\hermes_translations\\wwwroot\\css\\card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|solutionrelative:hermes_translations\\wwwroot\\css\\card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\hermes_translations\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|solutionrelative:hermes_translations\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\hermes_translations\\wwwroot\\css\\social.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|solutionrelative:hermes_translations\\wwwroot\\css\\social.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\hermes_translations\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|solutionrelative:hermes_translations\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|c:\\users\\default.laptop-rv2jo8f0\\onedrive\\escritorio\\independiente\\hermes traducciones\\hermes_traducciones\\hermes_translations\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA7980DD-6A95-4DF7-9871-3C90997DBC80}|hermes_translations\\hermes_translations.csproj|solutionrelative:hermes_translations\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\MiAplicacionMVC.Tests\\Usings.cs",
+              "RelativeDocumentMoniker": "MiAplicacionMVC.Tests\\Usings.cs",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\MiAplicacionMVC.Tests\\Usings.cs",
+              "RelativeToolTip": "MiAplicacionMVC.Tests\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:30:19.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\MiAplicacionMVC.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MiAplicacionMVC.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\MiAplicacionMVC.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MiAplicacionMVC.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:29:45.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "hermes_translations\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\Models\\Email.cs",
+              "RelativeToolTip": "hermes_translations\\Models\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:46:00.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "card.css",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\wwwroot\\css\\card.css",
+              "RelativeDocumentMoniker": "hermes_translations\\wwwroot\\css\\card.css",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\wwwroot\\css\\card.css",
+              "RelativeToolTip": "hermes_translations\\wwwroot\\css\\card.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T20:42:26.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "social.css",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\wwwroot\\css\\social.css",
+              "RelativeDocumentMoniker": "hermes_translations\\wwwroot\\css\\social.css",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\wwwroot\\css\\social.css",
+              "RelativeToolTip": "hermes_translations\\wwwroot\\css\\social.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T20:42:09.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "hermes_translations\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "hermes_translations\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T20:40:44.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "hermes_translations\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "hermes_translations\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T20:40:36.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "hermes_translations\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "hermes_translations\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:39:18.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "hermes_translations\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "hermes_translations\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:39:19.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "hermes_translations\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "hermes_translations\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:39:19.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "galeria.js",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\wwwroot\\js\\galeria.js",
+              "RelativeDocumentMoniker": "hermes_translations\\wwwroot\\js\\galeria.js",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\wwwroot\\js\\galeria.js",
+              "RelativeToolTip": "hermes_translations\\wwwroot\\js\\galeria.js",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwGMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-28T20:39:19.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\Views\\Interpretation\\Index.cshtml",
+              "RelativeDocumentMoniker": "hermes_translations\\Views\\Interpretation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\default.LAPTOP-RV2JO8F0\\OneDrive\\Escritorio\\Independiente\\Hermes Traducciones\\Hermes_Traducciones\\hermes_translations\\Views\\Interpretation\\Index.cshtml",
+              "RelativeToolTip": "hermes_translations\\Views\\Interpretation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T20:39:19.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
