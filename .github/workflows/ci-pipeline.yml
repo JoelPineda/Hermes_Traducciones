@@ -46,7 +46,7 @@ jobs:
           username: "hermestraducciones844@gmail.com"
           password: "rkqazagvvxaxjtwh"
           subject: "❌ CI Pipeline Failed - .NET MVC"
-          body: "The CI workflow for your .NET MVC project failed. Check GitHub Actions logs: ${{ github.run_id }}"
+          body: "El flujo de trabajo de CI de tu proyecto .NET MVC finalizo con el estado ${{ job.status }}. Consulta los registros de GitHub Actions: ${{ github.run_id }}"
           to: "joelpinedabeltre515@gmail.com"
           from: "hermestraducciones844@gmail.com"
           secure: false
