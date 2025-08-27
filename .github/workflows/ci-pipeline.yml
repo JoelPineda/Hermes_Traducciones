@@ -37,7 +37,7 @@ jobs:
           path: test-results.xml
 
       # Notificación por correo si falla
-      - name: Send email on failure
+      - name: Send email with CI results
         if: always()
         uses: dawidd6/action-send-mail@v3
         with:
@@ -50,3 +50,4 @@ jobs:
           to: "joelpinedabeltre515@gmail.com"
           from: "hermestraducciones844@gmail.com"
           secure: false
+          attachments: ./test-results.xml
