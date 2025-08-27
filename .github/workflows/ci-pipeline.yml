@@ -49,4 +49,4 @@ jobs:
           body: "The CI workflow for your .NET MVC project failed. Check GitHub Actions logs: ${{ github.run_id }}"
           to: "joelpinedabeltre515@gmail.com"
           from: "hermestraducciones844@gmail.com"
-          secure: true
+          secure: false
